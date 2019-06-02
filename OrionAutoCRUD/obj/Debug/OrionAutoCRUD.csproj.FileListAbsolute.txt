@@ -1,0 +1,12 @@
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\obj\Debug\OrionAutoCRUD.csprojAssemblyReference.cache
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\obj\Debug\OrionAutoCRUD.csproj.CoreCompileInputs.cache
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\bin\Debug\OrionAutoCRUD.exe.config
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\bin\Debug\OrionAutoCRUD.exe
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\bin\Debug\OrionAutoCRUD.pdb
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\bin\Debug\EntityFramework.dll
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\bin\Debug\EntityFramework.SqlServer.dll
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\bin\Debug\EntityFramework.xml
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\bin\Debug\EntityFramework.SqlServer.xml
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\obj\Debug\OrionAutoCRUD.csproj.CopyComplete
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\obj\Debug\OrionAutoCRUD.exe
+H:\GENESIS\OrionAutoCRUD\OrionAutoCRUD\obj\Debug\OrionAutoCRUD.pdb

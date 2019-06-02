@@ -1,0 +1,7 @@
+H:\GENESIS\OrionAutoCRUD\Test\bin\Debug\Test.exe.config
+H:\GENESIS\OrionAutoCRUD\Test\bin\Debug\Test.exe
+H:\GENESIS\OrionAutoCRUD\Test\bin\Debug\Test.pdb
+H:\GENESIS\OrionAutoCRUD\Test\obj\Debug\Test.csprojAssemblyReference.cache
+H:\GENESIS\OrionAutoCRUD\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+H:\GENESIS\OrionAutoCRUD\Test\obj\Debug\Test.exe
+H:\GENESIS\OrionAutoCRUD\Test\obj\Debug\Test.pdb
